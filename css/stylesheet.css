@@ -84,6 +84,15 @@ span {
   margin: 3% 0 4% 11%;
   min-height: 22em;
 }
+.service img {
+  max-width: 10em;
+  margin: 0 auto;
+}
+.service .card-title {
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-bottom: -0.5em;
+}
 form {
   width: 90%;
   height: 100%;
